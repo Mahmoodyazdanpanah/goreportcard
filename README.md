@@ -116,3 +116,4 @@ If you use Go Report Card for academic purposes, please use the following citati
 ### License
 
 The code is licensed under the permissive Apache v2.0 license. [Read this](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)) for a summary.
+
